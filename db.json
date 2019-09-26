@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+    "id": 1,
+    "email": "kumuduwijewardana3@gmail.com",
+    "password": "kumudu123",
+    "name": "Akila Nirangana"
+  },
+  {
+    "id": 2,
+    "email": "kumuduwijewardana3@yahoo.com",
+    "password": "kumudua321",
+    "name": "Akila Nirangana"
+  },
+  {
+    "id": 3,
+    "email": "kumuduwijewardana3@gmail.com",
+    "password": "kumudu9119",
+    "name": "Akila Nirangana"
+  },
+  {
+    "id": 4,
+    "email": "kumuduwijewardana3a@gmail.com",
+    "password": "kumudu@123",
+    "name": "Akila Nirangana"
+  },
+  {
+    "id": 5,
+    "email": "kumuduwijewardana3@gmail.com",
+    "password": "kumudu_9889",
+    "name": "Akila Nirangana"
+  }
+  ]
+}
